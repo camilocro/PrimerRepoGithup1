@@ -1,0 +1,10 @@
+# Dependencias
+/packages/
+/node_modules/
+
+# Archivos específicos de compilación y Visual Studio
+.vs/
+*.suo
+*.user
+/bin/
+/obj/
